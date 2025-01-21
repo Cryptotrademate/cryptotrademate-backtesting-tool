@@ -40,7 +40,7 @@ Welcome to the **CryptoTradeMate Backtesting Tool** – an advanced, open-source
 
 ### **6. Extensible Design**
 - Built with modular components to allow easy customization and integration.
-- Add your own trading strategies or connect to live trading systems.
+- Add your own trading strategies or connect to [live trading systems](https://github.com/Cryptotrademate/cryptotrademate-trading-bot).
 
 ## **Benefits**
 
@@ -95,8 +95,6 @@ Upgrade to unlock advanced features and take your trading game to the next level
 
 💡 **How to Upgrade**:  
 Visit [CryptoTradeMate Premium](https://cryptotrademate.com/pro-subscription) to learn more and subscribe.
-
----
 
 ## **Services**
 
