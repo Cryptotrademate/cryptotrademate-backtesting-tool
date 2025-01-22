@@ -6,6 +6,8 @@ Welcome to the **CryptoTradeMate Backtesting Tool** – an advanced, open-source
   <img src="https://github.com/user-attachments/assets/77fd65bb-96b3-4f39-87cc-11bc4c86b4e4" alt="CTM backtesting tool result">
 </div>
 
+You can also leverage CryptoTradeMate [Decentralized Crypto Signal Sharing Bot](https://github.com/Cryptotrademate/cryptotrademate-decentralized-crypto-signal-sharing-bot) —an open-source, self-hosted solution for sharing, accessing, and managing crypto trading signals in a privacy-first environment. With this bot, users can control their signal-sharing activities, track performance, and automate trading signal notifications.
+
 ## **Features**
 
 ### **1. Comprehensive Data Fetching**
@@ -40,7 +42,7 @@ Welcome to the **CryptoTradeMate Backtesting Tool** – an advanced, open-source
 
 ### **6. Extensible Design**
 - Built with modular components to allow easy customization and integration.
-- Add your own trading strategies or connect to [live trading systems](https://github.com/Cryptotrademate/cryptotrademate-trading-bot).
+- Add your trading strategies or connect to [live trading systems](https://github.com/Cryptotrademate/cryptotrademate-trading-bot).
 
 ## **Benefits**
 
